@@ -115,6 +115,7 @@
 * [Jollof](https://github.com/isocroft/Jollof) - A lightweight PHP framework for developers who love smart work. **By [@isocroft](https://twitter.com/isocroft)**
 * [Jusibe PHP Library](https://github.com/unicodeveloper/jusibe-php-lib) - A library for [Jusibe SMS Service](https://jusibe.com)  **By [@unicodeveloper](https://twitter.com/unicodeveloper)**
 * [Jusibe JavaScript Library](https://github.com/azemoh/jusibe) - A JavaScript library for [Jusibe SMS Service](https://jusibe.com)  **By [@azemoh](https://twitter.com/josh_azemoh)**
+* [JSONPlaceholder_Offline](https://github.com/DAMMAK/jsonplaceholder_offline) - offline version of [JsonPlaceholder](https://jsonplaceholder.typicode.com/) written in Dart, a collection of data to use in Flutter project](https://jusibe.com)  **By [@dammak](https://twitter.com/dammak)**
 
 
 ## <a name="K"> </a>K
